@@ -1,4 +1,4 @@
-### Hi there 👋
+Hey, I'm Sam. I'm a current data science student in the Bloomtech Institute of Technology. I'm interested in the intersection between coding and many other disciplines such as music, mathematics, and information storage. Welcome to my page! 
 
 <!--
 **samliske/samliske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
